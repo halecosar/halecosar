@@ -8,7 +8,7 @@ After gaining experience with Java and Spring Boot, I am now focusing on improvi
 
 * 🌍  I'm based in Istanbul,Turkiye
 * ✉️  You can contact me at [halealtunakar@hotmail.com](mailto:halealtunakar@hotmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning React.js, PHP
 
 ### Skills
 
